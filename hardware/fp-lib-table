@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Pinheaders)(type KiCad)(uri "$(KIPRJMOD)/mod/Pinheaders.pretty")(options "")(descr ""))
+  (lib (name Package_TO_SOT_SMD)(type KiCad)(uri ${KIPRJMOD}/lib/Package_TO_SOT_SMD.pretty)(options "")(descr ""))
 )
